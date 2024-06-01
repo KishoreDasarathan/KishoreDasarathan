@@ -2,7 +2,7 @@
 - 👀 I’m interested in |Web Pentesting|Bug Bounty|Cybersecurity|
 - 🌱 I’m currently learning Web Security | web vulnerabilities 
 - 📫 email: kishoredasarathan4@gmail.com
-- 💼portfolio:
+- 💼 portfolio:
 https://kishoredasarathan.github.io/portfolio/index.html
 
 <!---
